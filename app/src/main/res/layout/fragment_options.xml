@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.options.OptionsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvAddPlace"
+                android:text="@string/add_place"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="italic"
+                android:textColor="@color/colorPrimary"
+                android:paddingVertical="10dp"/>
+
+            <TextView
+                android:id="@+id/tvAddTravelAgence"
+                android:text="@string/add_travel_agence"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="italic"
+                android:textColor="@color/colorPrimary"
+                android:paddingVertical="10dp"/>
+            <TextView
+                android:id="@+id/tvAddHotel"
+                android:text="@string/add_hotel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="italic"
+                android:textColor="@color/colorPrimary"
+                android:paddingVertical="10dp"/>
+            <TextView
+                android:id="@+id/tvAddMeal"
+                android:text="@string/add_meal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="italic"
+                android:textColor="@color/colorPrimary"
+                android:paddingVertical="10dp"/>
+            <TextView
+                android:id="@+id/tvAddRestaurant"
+                android:text="@string/add_restaurant"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="italic"
+                android:textColor="@color/colorPrimary"
+                android:paddingVertical="10dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>

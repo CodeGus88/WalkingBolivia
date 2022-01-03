@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="white_dark">#C3B48F</color>
+<!--    Material desing A700 Line 2 -->
+<!--    <color name="material_design_a700_L2_C1">#00BFA5</color>-->
+<!--    <color name="material_design_a700_L2_C2">#00C853</color>-->
+<!--    <color name="material_design_a700_L2_C3">#64DD17</color>-->
+<!--    <color name="material_design_a700_L2_C4">#AEEA00</color>-->
+<!--    <color name="material_design_a700_L2_C5">#FFD600</color>-->
+<!--    <color name="material_design_a700_L2_C6">#FFAB00</color>-->
+<!--    <color name="material_design_a700_L2_C7">#FF6D00</color> -->
+<!--    <color name="material_design_a700_L2_C8">#DD2C00</color>-->
+
+<!--    Thema claros material design A700   -->
+    <color name="material_design_a700_L2_C1">#00BFA5</color>
+    <color name="material_design_a700_L2_C2">#00C853</color>
+    <color name="material_design_a700_L2_C3">#64DD17</color>
+    <color name="material_design_a700_L2_C4">#AEEA00</color>
+    <color name="material_design_a700_L2_C5">#FFD600</color>
+    <color name="material_design_a700_L2_C6">#FFAB00</color>
+    <color name="material_design_a700_L2_C7">#FF6D00</color>
+    <color name="material_design_a700_L2_C8">#DD2C00</color>
+
+<!--    Colores Dark   -->
+    <color name="dark_C1">#005E52</color>
+    <color name="dark_C2">#007330</color>
+    <color name="dark_C3">#3C8311</color>
+    <color name="dark_C4">#648700</color>
+    <color name="dark_C5">#7E6A00</color>
+    <color name="dark_C6">#805601</color>
+    <color name="dark_CX">#4E1000</color>
+    <color name="dark_C8">#320A00</color>
+
+
+    <color name="field">#43E9E9E9</color>
+
+
+<!--    Sobre escribe los colores por defecto de la aplicación    -->
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">@color/material_design_a700_L2_C8</color>
+    <color name="colorPrimaryDark">@color/material_design_a700_L2_C8</color>
+
+
+<!--    <color name="colorAccent" ns1:ignore="ResourceName">#FF4081</color>-->
+<!--    <color name="colorPrimary" ns1:ignore="ResourceName">#3F51B5</color>-->
+<!--    <color name="colorPrimaryDark" ns1:ignore="ResourceName">#303F9F</color>-->
+
+</resources>

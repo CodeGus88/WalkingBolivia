@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Walking Bolivia</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!--    Menu drawer -->
+    <string name="menu_home">Inicio</string>
+    <string name="menu_places">Excursiones</string>
+    <string name="menu_travel_agencies">Agencias de viaje</string>
+    <string name="menu_hotels">Hoteles</string>
+    <string name="menu_meal">Comida</string>
+    <string name="menu_restaurants">Restaurantes</string>
+    <string name="menu_title_other">Otros</string>
+    <string name="menu_saved">Guardados</string>
+    <string name="menu_options">Opciones</string>
+    <string name="menu_about_us">Sobre nosotros</string>
+
+    <!--    MENSAJES   -->
+    <!--    Usuario: procesos completados  -->
+    <string name="signout_user_success">Se cerró la sesión...</string>
+    <string name="create_user_success">El usuario se creó satisfactoriamente...</string>
+    <string name="update_user_success">El usuario se editó satisfactoriamente...</string>
+    <string name="delete_user_success">El usuario se eliminó satisfactoriamente...</string>
+    <!--    Usuario: procesos fallidos  -->
+    <string name="create_user_error">¡No se pudo crear el usuario!</string>
+    <string name="update_user_error">!El usuario no se editó satisfactoriamente!</string>
+    <string name="delete_user_error">¡El usuario no se eliminó satisfactoriamente!</string>
+    <string name="search_user_error">¡El usuario no se eliminó satisfactoriamente!</string>
+
+    <!--    Other Errors -->
+    <string name="alert_invalid_option">¡Opción inválida!</string>
+
+
+    <!--    user alert -->
+    <string name="user_title_id">ID:</string>
+    <string name="user_title_fulname">Usuario:</string>
+    <string name="user_title_email">Email:</string>
+    <string name="user_btn_ok">Vale</string>
+    <string name="user_btn_signout">Cerrar sesión</string>
+
+    <!--    Options fragment -->
+    <string name="add_place">Agregar un nuevo lugar turístico</string>
+    <string name="add_travel_agence">Agregar agencia de viaje</string>
+    <string name="add_hotel">Agregar hotel</string>
+    <string name="add_meal">Agregar comida</string>
+    <string name="add_restaurant">Agregar restaurante</string>
+
+
+    <string name="tv_location">Ubicación</string>
+    <string name="tv_latitude">Latitud</string>
+    <string name="tv_longitude">Longitud</string>
+    <string name="tv_undefined">No definido</string>
+    <string name="tv_photo">Foto</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_save">Guardar</string>
+    <string name="et_place_keywords">Palabras clave (opcional)</string>
+    <string name="tv_complet_to_fields">Completa los campos</string>
+    <!--    Create Place  content   -->
+    <string name="et_place_name">Nombre del lugar</string>
+    <string name="et_place_resume">Resumen</string>
+    <string name="et_place_content">Contenido</string>
+    <string name="et_place_address">Dirección</string>
+    <string name="tv_place_departament">Departamento</string>
+    <string name="tv_place_province">Provincia</string>
+    <string name="btn_photo_select">Selecciona una foto</string>
+
+
+    <!--    Crear un nuevo lugar turístico  -->
+    <string name="title_create_place_toolbar_title">Crear lugar turístico</string>
+    <string name="title_create_place_title">Completa los siguientes campos</string>
+
+
+    <!--    inicio de sesión-->
+    <string name="welcome_user">Bienvenido</string>
+
+<!--    Maps    -->
+    <string name="btn_set">Establecer</string>
+    <string name="btn_back">Volver</string>
+    <string name="sp_hibrid_option">Híbrido</string>
+    <string name="sp_normal_option">Normal</string>
+    <string name="sp_terrain_option">Terreno</string>
+    <string name="sp_satellite_option">Satélite</string>
+    <string name="marker_set_location_title">Mantén presionado el marcador para mover</string>
+
+    <!--BORRAR SI SE CORRIGE ARCHIVO VALUES.XML C:\Users\soyyo\AndroidStudioProjects\LlajtaComida\app\build\generated\res\google-services\debug\values-->
+    <!--    atributos de values.xml que no reconoce android studio Borrar después de corregir-->
+
+    <string name="default_web_client_id_x" translatable="false">430230520746-ck4m80kh0g7c8pm850v7eismsvgncint.apps.googleusercontent.com</string>
+    <string name="firebase_database_url_x" translatable="false">https://walkingbolivia-4933d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId_x" translatable="false">430230520746</string>
+    <string name="google_api_key_x" translatable="false">AIzaSyDPoW9A0xtpEz1OFdLCJwjheye4_lO094s</string>
+    <string name="google_app_id_x" translatable="false">1:430230520746:android:7827a0604b2b38e7c7e1d3</string>
+    <string name="google_crash_reporting_api_key_x" translatable="false">AIzaSyDPoW9A0xtpEz1OFdLCJwjheye4_lO094s</string>
+    <string name="google_storage_bucket_x" translatable="false">walkingbolivia-4933d.appspot.com</string>
+    <string name="project_id_x" translatable="false">walkingbolivia-4933d</string>
+
+
+    <!--    Facebook    -->
+    <string name="facebook_application_id">403015681606218</string>
+    <string name="facebook_login_protocol_scheme">fb403015681606218</string>
+
+    <!--    <string name="facebook_app_id" translatable="false">403015681606218</string>-->
+    <string name="fb_login_protocol_scheme" translatable="false">fb403015681606218</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_meal_register">MealRegisterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>

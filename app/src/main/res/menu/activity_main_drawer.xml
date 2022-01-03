@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<!--    android:id="@+id/g1"-->
+
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_places"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_places" />
+        <item
+            android:id="@+id/nav_travel_agencies"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_travel_agencies" />
+        <item
+            android:id="@+id/nav_hotels"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_hotels" />
+        <item
+            android:id="@+id/nav_meal"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_meal" />
+        <item
+            android:id="@+id/nav_restaurants"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_restaurants" />
+    </group>
+
+    <item
+        android:id="@+id/g2"
+        android:title="@string/menu_title_other">
+        <menu>
+            <item
+                android:id="@+id/nav_saved"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_saved"/>
+            <item
+                android:id="@+id/nav_options"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_options"/>
+            <item
+                android:id="@+id/nav_about_as"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_about_us"/>
+        </menu>
+
+    </item>
+
+</menu>

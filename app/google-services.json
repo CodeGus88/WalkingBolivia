@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430230520746",
+    "firebase_url": "https://walkingbolivia-4933d-default-rtdb.firebaseio.com",
+    "project_id": "walkingbolivia-4933d",
+    "storage_bucket": "walkingbolivia-4933d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430230520746:android:7827a0604b2b38e7c7e1d3",
+        "android_client_info": {
+          "package_name": "com.codegus.walkingbolivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430230520746-u9nagk3conk9e4ld4otovmgc3oeb433d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegus.walkingbolivia",
+            "certificate_hash": "1a0511aef06b12a9ed55cd4e7aa1c9143aac0897"
+          }
+        },
+        {
+          "client_id": "430230520746-ck4m80kh0g7c8pm850v7eismsvgncint.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPoW9A0xtpEz1OFdLCJwjheye4_lO094s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430230520746-ck4m80kh0g7c8pm850v7eismsvgncint.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

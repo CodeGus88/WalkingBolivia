@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.codegus.walkingbolivia.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_places"
+        android:name="com.codegus.walkingbolivia.ui.places.PlacesFragment"
+        android:label="@string/menu_places"
+        tools:layout="@layout/fragment_places" />
+
+    <fragment
+        android:id="@+id/nav_travel_agencies"
+        android:name="com.codegus.walkingbolivia.ui.travel_agencies.TravelAgenciesFragment"
+        android:label="@string/menu_travel_agencies"
+        tools:layout="@layout/fragment_travel_agencies" />
+
+    <fragment
+        android:id="@+id/nav_hotels"
+        android:name="com.codegus.walkingbolivia.ui.hotels.HotelsFragment"
+        android:label="@string/menu_hotels"
+        tools:layout="@layout/fragment_hotels" />
+
+    <fragment
+        android:id="@+id/nav_meal"
+        android:name="com.codegus.walkingbolivia.ui.meal.MealFragment"
+        android:label="@string/menu_meal"
+        tools:layout="@layout/fragment_meal" />
+
+    <fragment
+        android:id="@+id/nav_restaurants"
+        android:name="com.codegus.walkingbolivia.ui.restaurants.RestaurantsFragment"
+        android:label="@string/menu_restaurants"
+        tools:layout="@layout/fragment_restaurants" />
+
+    <fragment
+        android:id="@+id/nav_saved"
+        android:name="com.codegus.walkingbolivia.ui.saved.SavedFragment"
+        android:label="@string/menu_saved"
+        tools:layout="@layout/fragment_saved"/>
+
+    <fragment
+        android:id="@+id/nav_options"
+        android:name="com.codegus.walkingbolivia.ui.options.OptionsFragment"
+        android:label="@string/menu_options"
+        tools:layout="@layout/fragment_options"/>
+
+    <fragment
+        android:id="@+id/nav_about_as"
+        android:name="com.codegus.walkingbolivia.ui.aboutas.AboutAsFragment"
+        android:label="@string/menu_about_us"
+        tools:layout="@layout/fragment_about_as"/>
+
+
+</navigation>
